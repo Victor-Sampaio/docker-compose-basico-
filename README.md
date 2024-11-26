@@ -1,8 +1,11 @@
 Este repositório foi criado como parte de um estudo prático para aprofundar conhecimentos em tecnologias modernas de desenvolvimento e containerização. Nele, foram implementados três containers, cada um utilizando tecnologias diferentes:
 
 PHP: Usado para consulmir api node js.
+
 Node.js: Aplicado para criar funcionalidades na api para o crud.
+
 MySQL: Base de dados relacional utilizada para armazenamento e manipulação de dados.
+
 Foi desenvolvido um CRUD simples para testes, permitindo a manipulação de dados como criação, leitura, atualização e exclusão. O projeto explora conceitos de integração entre tecnologias, utilização de Docker e Docker Compose, além de boas práticas no desenvolvimento com containers.
 
 Objetivos:
